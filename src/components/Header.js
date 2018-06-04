@@ -9,7 +9,7 @@ class Header extends Component {
     console.log("Header");
     return (
       <div>
-        <h1 className="f1">RoboFriends</h1>
+        <h1 className="f1">Robo Friends</h1>
         <CounterButton color={"red"} />
       </div>
     );
