@@ -9,6 +9,8 @@ import Header from "../components/Header";
 
 import { setSearchField, requestRobots } from "../actions";
 
+// dispatch the DOM changes to call an action. note mapStateToProps returns object, mapDispatchToProps returns function
+// the function returns an object then uses connect to change the data from redecers.
 const mapDispatchToProps = dispatch => {
   return {
     onSearchChange: e => dispatch(setSearchField(e.target.value)),
