@@ -18,7 +18,7 @@ class MainPage extends Component {
     });
   };
   render() {
-    const { robots, isPending } = this.props;
+    const { isPending } = this.props;
 
     if (isPending) {
       return <h1>Loading</h1>;
