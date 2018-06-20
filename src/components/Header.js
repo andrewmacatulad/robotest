@@ -6,7 +6,6 @@ class Header extends Component {
     return false;
   }
   render() {
-    console.log("Header");
     return (
       <div>
         <h1 className="f1">Robo Friends</h1>

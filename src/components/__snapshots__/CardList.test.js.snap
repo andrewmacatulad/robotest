@@ -1,0 +1,476 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <CardList
+    robots={
+        Array [
+            Object {
+              "email": "Sincere@april.biz",
+              "id": 1,
+              "name": "Leanne Graham",
+              "username": "Bret",
+            },
+            Object {
+              "email": "Shanna@melissa.tv",
+              "id": 2,
+              "name": "Ervin Howell",
+              "username": "Antonette",
+            },
+            Object {
+              "email": "Nathan@yesenia.net",
+              "id": 3,
+              "name": "Clementine Bauch",
+              "username": "Samantha",
+            },
+            Object {
+              "email": "Julianne.OConner@kory.org",
+              "id": 4,
+              "name": "Patricia Lebsack",
+              "username": "Karianne",
+            },
+            Object {
+              "email": "Lucio_Hettinger@annie.ca",
+              "id": 5,
+              "name": "Chelsey Dietrich",
+              "username": "Kamren",
+            },
+            Object {
+              "email": "Karley_Dach@jasper.info",
+              "id": 6,
+              "name": "Mrs. Dennis Schulist",
+              "username": "Leopoldo_Corkery",
+            },
+            Object {
+              "email": "Telly.Hoeger@billy.biz",
+              "id": 7,
+              "name": "Kurtis Weissnat",
+              "username": "Elwyn.Skiles",
+            },
+            Object {
+              "email": "Sherwood@rosamond.me",
+              "id": 8,
+              "name": "Nicholas Runolfsdottir V",
+              "username": "Maxime_Nienow",
+            },
+            Object {
+              "email": "Chaim_McDermott@dana.io",
+              "id": 9,
+              "name": "Glenna Reichert",
+              "username": "Delphine",
+            },
+            Object {
+              "email": "Rey.Padberg@karina.biz",
+              "id": 10,
+              "name": "Clementina DuBuque",
+              "username": "Moriah.Stanton",
+            },
+          ]
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <Card
+          email="Sincere@april.biz"
+          id={1}
+          name="Leanne Graham"
+/>,
+        <Card
+          email="Shanna@melissa.tv"
+          id={2}
+          name="Ervin Howell"
+/>,
+        <Card
+          email="Nathan@yesenia.net"
+          id={3}
+          name="Clementine Bauch"
+/>,
+        <Card
+          email="Julianne.OConner@kory.org"
+          id={4}
+          name="Patricia Lebsack"
+/>,
+        <Card
+          email="Lucio_Hettinger@annie.ca"
+          id={5}
+          name="Chelsey Dietrich"
+/>,
+        <Card
+          email="Karley_Dach@jasper.info"
+          id={6}
+          name="Mrs. Dennis Schulist"
+/>,
+        <Card
+          email="Telly.Hoeger@billy.biz"
+          id={7}
+          name="Kurtis Weissnat"
+/>,
+        <Card
+          email="Sherwood@rosamond.me"
+          id={8}
+          name="Nicholas Runolfsdottir V"
+/>,
+        <Card
+          email="Chaim_McDermott@dana.io"
+          id={9}
+          name="Glenna Reichert"
+/>,
+        <Card
+          email="Rey.Padberg@karina.biz"
+          id={10}
+          name="Clementina DuBuque"
+/>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": "1",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Sincere@april.biz",
+          "id": 1,
+          "name": "Leanne Graham",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "2",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Shanna@melissa.tv",
+          "id": 2,
+          "name": "Ervin Howell",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "3",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Nathan@yesenia.net",
+          "id": 3,
+          "name": "Clementine Bauch",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "4",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Julianne.OConner@kory.org",
+          "id": 4,
+          "name": "Patricia Lebsack",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "5",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Lucio_Hettinger@annie.ca",
+          "id": 5,
+          "name": "Chelsey Dietrich",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Karley_Dach@jasper.info",
+          "id": 6,
+          "name": "Mrs. Dennis Schulist",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "7",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Telly.Hoeger@billy.biz",
+          "id": 7,
+          "name": "Kurtis Weissnat",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "8",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Sherwood@rosamond.me",
+          "id": 8,
+          "name": "Nicholas Runolfsdottir V",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "9",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Chaim_McDermott@dana.io",
+          "id": 9,
+          "name": "Glenna Reichert",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "10",
+        "nodeType": "function",
+        "props": Object {
+          "email": "Rey.Padberg@karina.biz",
+          "id": 10,
+          "name": "Clementina DuBuque",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Card
+            email="Sincere@april.biz"
+            id={1}
+            name="Leanne Graham"
+/>,
+          <Card
+            email="Shanna@melissa.tv"
+            id={2}
+            name="Ervin Howell"
+/>,
+          <Card
+            email="Nathan@yesenia.net"
+            id={3}
+            name="Clementine Bauch"
+/>,
+          <Card
+            email="Julianne.OConner@kory.org"
+            id={4}
+            name="Patricia Lebsack"
+/>,
+          <Card
+            email="Lucio_Hettinger@annie.ca"
+            id={5}
+            name="Chelsey Dietrich"
+/>,
+          <Card
+            email="Karley_Dach@jasper.info"
+            id={6}
+            name="Mrs. Dennis Schulist"
+/>,
+          <Card
+            email="Telly.Hoeger@billy.biz"
+            id={7}
+            name="Kurtis Weissnat"
+/>,
+          <Card
+            email="Sherwood@rosamond.me"
+            id={8}
+            name="Nicholas Runolfsdottir V"
+/>,
+          <Card
+            email="Chaim_McDermott@dana.io"
+            id={9}
+            name="Glenna Reichert"
+/>,
+          <Card
+            email="Rey.Padberg@karina.biz"
+            id={10}
+            name="Clementina DuBuque"
+/>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Sincere@april.biz",
+            "id": 1,
+            "name": "Leanne Graham",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "2",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Shanna@melissa.tv",
+            "id": 2,
+            "name": "Ervin Howell",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "3",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Nathan@yesenia.net",
+            "id": 3,
+            "name": "Clementine Bauch",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "4",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Julianne.OConner@kory.org",
+            "id": 4,
+            "name": "Patricia Lebsack",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "5",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Lucio_Hettinger@annie.ca",
+            "id": 5,
+            "name": "Chelsey Dietrich",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Karley_Dach@jasper.info",
+            "id": 6,
+            "name": "Mrs. Dennis Schulist",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "7",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Telly.Hoeger@billy.biz",
+            "id": 7,
+            "name": "Kurtis Weissnat",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "8",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Sherwood@rosamond.me",
+            "id": 8,
+            "name": "Nicholas Runolfsdottir V",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "9",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Chaim_McDermott@dana.io",
+            "id": 9,
+            "name": "Glenna Reichert",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "10",
+          "nodeType": "function",
+          "props": Object {
+            "email": "Rey.Padberg@karina.biz",
+            "id": 10,
+            "name": "Clementina DuBuque",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
